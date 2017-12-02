@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/bTREE.cpp
+iostream
+-
+bTREE.h
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/bTREE.h
+
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/bTREE.h
+string
+-
+
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/pMT.cpp
+pMT.h
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/pMT.h
+
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/pMT.h
+bTREE.h
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/bTREE.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/vote.cpp
+stdio.h
+-
+fstream
+-
+iostream
+-
+sstream
+-
+pMT.h
+/cygdrive/c/Users/Quinn/ClionProjects/HW4-5-6/pMT.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/HW4_5_6.dir/bTREE.cpp.o CMakeFiles/HW4_5_6.dir/pMT.cpp.o CMakeFiles/HW4_5_6.dir/vote.cpp.o  -o HW4_5_6.exe -Wl,--out-implib,libHW4_5_6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
